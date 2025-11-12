@@ -1,0 +1,33 @@
+{
+  "name": "abfuy4zt--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.1.0",
+    "react-dom": "18.1.0",
+    "@syncfusion/ej2-base": "30.2.4",
+    "@syncfusion/ej2-react-base": "30.2.4",
+    "@syncfusion/ej2-spreadsheet": "30.2.5",
+    "@syncfusion/ej2-react-spreadsheet": "30.2.5",
+    "@syncfusion/ej2-react-charts": "30.2.5",
+    "undefined": "0.1.0",
+    "@syncfusion/ej2-lists": "30.2.4",
+    "@syncfusion/ej2-documenteditor": "30.2.5",
+    "@syncfusion/ej2-buttons": "30.2.4",
+    "@syncfusion/ej2-splitbuttons": "30.2.4",
+    "@syncfusion/ej2-navigations": "30.2.5",
+    "@syncfusion/ej2-react-popups": "30.2.4",
+    "@syncfusion/ej2-pivotview": "30.2.4",
+    "@syncfusion/ej2-react-progressbar": "30.2.4",
+    "@syncfusion/ej2-schedule": "30.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
