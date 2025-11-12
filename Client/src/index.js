@@ -8,13 +8,6 @@ import {
     RangesDirective,
     RangeDirective,
 } from '@syncfusion/ej2-react-spreadsheet';
-import {
-    RowsDirective,
-    RowDirective,
-    CellsDirective,
-    CellDirective,
-    ColumnDirective,
-} from '@syncfusion/ej2-react-spreadsheet';
 import { SpreadsheetComponent } from '@syncfusion/ej2-react-spreadsheet';
 
 function Default() {
