@@ -1,0 +1,19 @@
+{
+  "name": "abfuy4zt--run",
+  "version": "*",
+  "private": true,
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*",
+    "@syncfusion/ej2-react-spreadsheet": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
