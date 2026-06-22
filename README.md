@@ -1,6 +1,6 @@
 # Syncfusion React Spreadsheet + Aws Lambda Integration
 
-This repository contains a complete sample demonstrating how to integrate the Syncfusion React Spreadsheet component with an ASP.NET Core Web API deployed to AWS Lambda. It showcases how to open and save Excel files using serverless endpoints for seamless cloud-based spreadsheet management.
+This repository contains a complete sample demonstrating how to integrate the [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor) component with an ASP.NET Core Web API deployed to AWS Lambda. It showcases how to open and save Excel files using serverless endpoints for seamless cloud-based spreadsheet management.
 
 🔗 **Live Demo**
 
@@ -9,7 +9,7 @@ This repository contains a complete sample demonstrating how to integrate the Sy
 📁 **Project Structure**
 
 ```
-├── client/       # React app with Syncfusion Spreadsheet
+├── client/       # React app with Spreadsheet
 └── server/       # ASP.NET Core Web API project
 ```
 
@@ -21,7 +21,7 @@ This repository contains a complete sample demonstrating how to integrate the Sy
 
 🧩 **Technologies Used**
 
-- React + Syncfusion Spreadsheet
+- React + Spreadsheet
 - ASP.NET Core Web API
 - AWS Lambda Function
 
@@ -76,7 +76,7 @@ This repository contains a complete sample demonstrating how to integrate the Sy
 
 ## 📄 Key Files
 - **SpreadsheetController.cs:** Handles open/save logic in ASP.NET Core
-- **index.js:** React component with Syncfusion Spreadsheet integration
+- **index.js:** React component with Spreadsheet integration
 - **Program.cs:** Configured for AWS Lambda hosting
 
 ## 🔗 Resources
